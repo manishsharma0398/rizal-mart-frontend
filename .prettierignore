@@ -1,0 +1,5 @@
+# Ignore artifacts:
+.yarn
+.next
+output
+coverage
